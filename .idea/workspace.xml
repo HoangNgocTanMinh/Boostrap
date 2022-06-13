@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f046dffa-a71a-4986-b904-a7f09a0a5f13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -44,10 +43,17 @@
       <updated>1654825645281</updated>
       <workItem from="1654825646644" duration="2377000" />
       <workItem from="1654831167615" duration="642000" />
+      <workItem from="1655085785081" duration="1554000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1655085799584">
+      <screen x="0" y="25" width="1440" height="827" />
+    </state>
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.25.1440.827@0.25.1440.827" timestamp="1655085799584" />
   </component>
 </project>
